@@ -1,12 +1,7 @@
+name: 'santi '
 favicon: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.5127659
+typography_spectrum: 0.3
 collections:
   - index:
       path: /
@@ -19,22 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.03617021
-  brandStrength: 0.2765957
-  lightness: 0.5042553
   brandColors:
     - '#020605'
     - '#425B77'
     - '#FFFAB3'
     - '#FCA364'
     - '#F34055'
-  rhythmicContrast: 0.2404255
-typography_spectrum: 0.3
-layout_spectrum: 0.5127659
-cta:
-  bucket: null
-  version: null
-  domain: null
-name: 'santi '
+  brandStrength: 0.375
+  lightness: 0.5042553
+  saturation: 0.03617021
+  rhythmicContrast: 0.25
+purpose: []
