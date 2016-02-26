@@ -1,8 +1,8 @@
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -21,8 +21,8 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0
-  brandStrength: 1
+  saturation: 0.03617021
+  brandStrength: 0.2765957
   lightness: 0.5042553
   brandColors:
     - '#020605'
@@ -30,11 +30,11 @@ color:
     - '#FFFAB3'
     - '#FCA364'
     - '#F34055'
-  rhythmicContrast: 0.7744681
+  rhythmicContrast: 0.2404255
 typography_spectrum: 0.3
 layout_spectrum: 0.5127659
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: 'santi '
