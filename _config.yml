@@ -1,41 +1,41 @@
-name: santi V
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.3
 title: 'Tidbits and Glances  '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  saturation: 0.03617021
+  brandStrength: 0
+  lightness: 0.3125
   brandColors:
     - '#020605'
     - '#425B77'
     - '#FFFAB3'
     - '#FCA364'
     - '#F34055'
-  brandStrength: 0.375
-  lightness: 0.5042553
-  saturation: 0.03617021
   rhythmicContrast: 0
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: santi V
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.3
+layout_spectrum: 0
