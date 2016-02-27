@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[santi ]]></title>
-        <description><![CDATA[santi ]]></description>
+        <title><![CDATA[Tidbits and Glances  ]]></title>
+        <description><![CDATA[Tidbits and Glances  ]]></description>
         <link>https://thegrid.ai/santi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 20:27:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 21:55:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/santi/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Video time ]]></title>
-            <description><![CDATA[<article><h1>Video time </h1><p>Replay is the easiest way to create beautiful videos on iPhone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ad266b8a861604fa459684dfa0e2cd1a4a6208a.jpg"></article>]]></description>
-            <link>https://thegrid.ai/santi/video-time/index.html</link>
-            <guid isPermaLink="false">23389c4c-ea59-4941-90a5-ef2f145fb1f7</guid>
-            <pubDate>Fri, 26 Feb 2016 20:25:58 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Hey babe ]]></title>
             <description><![CDATA[<article><h1>Hey babe </h1><p>Hey babe</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7af7700d428bb99c4fbf5af8e9a91ffa95c3100.png"></article>]]></description>
@@ -30,9 +23,9 @@
         <item>
             <title><![CDATA[Choices ]]></title>
             <description><![CDATA[<article><h1>Choices </h1><p>Choices</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ad6615bd9a3f50155938a9b4a9a07ad4b4a5f01a.png"></article>]]></description>
-            <link>https://thegrid.ai/santi/choices/index.html</link>
+            <link>urn:uuid:8708972a-af04-46e8-89bd-bfe89414026b</link>
             <guid isPermaLink="false">a5fd7f2f-d26a-433f-99b0-9061967c8a63</guid>
-            <pubDate>Fri, 26 Feb 2016 18:38:20 GMT</pubDate>
+            <pubDate>Sat, 27 Feb 2016 21:54:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The GV part three]]></title>
@@ -68,13 +61,6 @@
             <link>https://thegrid.ai/santi/dfd0b094-5f4b-468b-9a9c-3364d88ce47d/index.html</link>
             <guid isPermaLink="false">dfd0b094-5f4b-468b-9a9c-3364d88ce47d</guid>
             <pubDate>Thu, 25 Feb 2016 03:00:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/360b342e-c521-4e15-a631-e7ed275fad80.jpg">]]></description>
-            <link>https://thegrid.ai/santi/48277397-40c9-486e-bc89-a9b8e0134d09/index.html</link>
-            <guid isPermaLink="false">48277397-40c9-486e-bc89-a9b8e0134d09</guid>
-            <pubDate>Thu, 25 Feb 2016 02:54:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
