@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-28T14:40:17.995Z'
-dateModified: '2016-02-28T14:39:32.676Z'
+datePublished: '2016-02-28T14:42:58.517Z'
+dateModified: '2016-02-28T14:42:54.496Z'
 title: 'Catch up on the latest news, reviews, and interview on the post production world.'
 author: []
+sourcePath: _posts/2016-02-28-catch-up-on-the-latest-news-reviews-and-interview-on-the-p.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-28-catch-up-on-the-latest-news-reviews-and-interview-on-the-p.md
-published: true
 url: catch-up-on-the-latest-news-reviews-and-interview-on-the-p/index.html
 _type: Article
 
